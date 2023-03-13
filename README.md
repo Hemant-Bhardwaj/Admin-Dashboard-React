@@ -1,3 +1,7 @@
+This is a fully functioning admin dashboard application with multiple graphs, team management, FAQs page, calendar to add events and a profile form with validation.
+
+![Mar-14-2023 03-00-42](https://user-images.githubusercontent.com/14939987/224837361-b48cd994-fc60-462c-8e0b-54a5510462c9.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
